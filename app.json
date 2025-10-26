@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "SociaLock",
+    "slug": "socialock-user",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "scheme": "socialock"
+  }
+}
